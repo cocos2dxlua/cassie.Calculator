@@ -1,2 +1,2 @@
 # cassie.Calculator
-cocos studio 
+cocos studio test 
